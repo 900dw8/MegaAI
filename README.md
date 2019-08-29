@@ -1,4 +1,3 @@
-# MegaAI
-Test
-Test add by MinWei  
-Test add by Home
+# 共用Git上傳區  
+- 每一個人都有自己的資料夾，可以自行上傳欲分享的資料或筆記心得  
+- 因每個人的編輯權限都是整個Repo，故請小心不要編輯別人的資料夾【若誤刪重要資料可從Git歷程回復】
